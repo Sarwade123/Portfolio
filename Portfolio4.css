@@ -1,0 +1,107 @@
+.navigation-bar{	
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background: transparent;
+	backdrop-filter: blur(20px);
+	z-index: 5;
+}
+.section{
+	padding-top:100px ;
+	position: relative;
+	height: 100vh;
+	width: 100vw;
+	}
+.all-section{
+	right: 0px;
+	top: 45px;
+	left: 0px;
+	width: 100%;
+}
+h1{
+	text-align: center;
+}
+html{
+	scroll-behavior: smooth;
+}
+.logo{
+	color: #14f6fa;
+	letter-spacing: 3px;
+	font-size: 18px;
+	font-family: arial black;
+
+}
+.mymenus{
+	font-weight: bolder;
+        color: black;
+}
+.mymenus:hover{
+        color: #14f6fa;
+        text-decoration:underline 2px solid;
+}
+.home-section{
+     background-image: url(https://static.vecteezy.com/system/resources/previews/024/387/852/non_2x/3d-male-character-sitting-on-a-sofa-and-working-on-a-laptop-with-thinking-pose-free-png.png);
+     background-repeat: no-repeat;
+     background-size: 50%;
+     background-position: 90% 40%;
+}
+.myinfo{
+	
+	height: 450px;
+	width: 40%;
+	
+	margin-left: 70px;	
+}
+.resume{
+	height: 60px;
+	width: 100px;
+	margin: 20px 10px;
+	border: none;
+	background-color: #1483fa;
+	border-radius: 10px;
+	font-family: arial black;
+	color: white;
+}
+.info-home{
+	font-size: 30px;
+	font-family: elephant;
+
+}
+.myname{
+	font-size: 50px;
+	color: #14f6fa;
+}
+.fsjd{
+	font-size: 40px;
+	color: orangered;
+}
+.about-section{
+
+	width: 100%;
+	display: flex;
+}
+.image-section{	
+         height:100%;
+         width: 40%;
+         border-radius: 50%;
+}
+.myphoto{
+	background-image: url("https://static.vecteezy.com/system/resources/previews/012/658/262/non_2x/3d-illustration-of-character-website-developer-free-png.png"); 
+}
+.objective{
+	
+     width: 50%;
+     height: 100%;
+}
+.career{
+	text-align: justify;
+	line-height: 50px;
+	font-size: 22px;
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+.aboutlogo{
+	font-size: 40px;
+}
+
